@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"git test");
     NSLog(@"git second test");
+    NSLog(@"分支A 修改");
 }
 
 
