@@ -22,6 +22,7 @@
     NSLog(@"master 修改");
     NSLog(@"分支A second修改");
     NSLog(@"分支A 1");
+    NSLog(@"master 1");
 }
 
 
