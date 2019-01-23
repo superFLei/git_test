@@ -24,6 +24,7 @@
     NSLog(@"分支A 1");
     NSLog(@"master 1");
     NSLog(@"banchA push");
+    NSLog(@"revert");
 }
 
 
